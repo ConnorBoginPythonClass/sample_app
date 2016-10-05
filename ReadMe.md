@@ -2,4 +2,4 @@
 
 This is a sample application 
 
-by [Connor Bogin](http://darrenhe/crowdhopper.com)
+by [Connor Bogin](http://darrenhe.com/crowdhopper)
